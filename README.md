@@ -13,11 +13,15 @@ Dependencies are listed in `requirements.txt`.
 ## Project Structure
 
 ```
-project/
-├── main.py
-├── requirements.txt
-└── image/
-    └── input.png
+Python-Image-Processing/
+├── image/
+│   └── input.png
+├── main/
+│   ├── main.py
+│   └── requirements.txt
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ## Installation & Setup
